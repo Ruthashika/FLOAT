@@ -20,7 +20,7 @@ import {
 import "./App.css";
 
 
-const API_URL = "http://127.0.0.1:8001";
+const API_URL = "https://float-h0u2.onrender.com";
 
 
 const starterQuestions = [
